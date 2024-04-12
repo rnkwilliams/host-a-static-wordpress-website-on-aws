@@ -1,5 +1,9 @@
 # Hosting WordPress Website on AWS
 
+![Alt text](Host_WordPress_Website_on_AWS.png)
+
+---
+
 ## Project Overview
 
 This project involves deploying a WordPress website on Amazon Web Services (AWS) infrastructure using various AWS services and configurations. The deployment process includes setting up a Virtual Private Cloud (VPC), launching EC2 instances, configuring security groups, setting up auto-scaling, and more.
@@ -85,3 +89,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [AWS Documentation](https://aws.amazon.com/documentation/)
 - [WordPress Documentation](https://wordpress.org/support/)
 - [GitHub Repository](https://github.com/rnkwilliams/host-a-static-wordpress-website-on-aws)
+  
+---
