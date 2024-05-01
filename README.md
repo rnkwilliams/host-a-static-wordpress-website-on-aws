@@ -1,6 +1,6 @@
-# Hosting WordPress Website on AWS
+# Deploy a 3-Tier Network VPC WordPress Website on AWS
 
-![Alt text](AWS 3-Tier VPC Network Architecture.png)
+![Alt text](AWS_3Tier_VPC_Network_Architecture.png)
 
 ---
 
@@ -16,7 +16,7 @@ The project involves deploying a WordPress website on AWS using the following re
 
 - **Internet Gateway**: Deployed to facilitate connectivity between VPC instances and the wider internet.
 
-- **Security Groups**: Established security groups as a network firewall mechanism to control traffic to and from instances.
+- **Security Groups**: Security groups were established as a network firewall mechanism to control traffic to and from instances.
 
 - **Availability Zones**: Utilized two availability zones for improved system reliability and fault tolerance.
 
