@@ -1,12 +1,12 @@
-# Deploy a 3-Tier Network VPC Wordpress Website on AWS
-
-![Alt text](AWS_3Tier_VPC_Network_Architecture.png)
-
+# Deploy a 3-Tier Network VPC WordPress Website on AWS
 ---
 
 ## Project Overview
 
 This project involves deploying a WordPress website on Amazon Web Services (AWS) infrastructure using various AWS services and configurations. The deployment process includes setting up a Virtual Private Cloud (VPC), launching EC2 instances, configuring security groups, setting up auto-scaling, and more.
+
+## Architectural Diagram:
+![Alt text](AWS_3Tier_VPC_Network_Architecture.png)
 
 ## Architecture
 
@@ -22,7 +22,7 @@ The project involves deploying a WordPress website on AWS using the following re
 
 - **Public Subnets**: Utilized public subnets for infrastructure components like the NAT Gateway and Application Load Balancer.
 
-- **EC2 Instance Connect Endpoint**: Implemented EC2 Instance Connect Endpoint for secure connections to resouces within both public and private subnets.
+- **EC2 Instance Connect Endpoint**: Implemented EC2 Instance Connect Endpoint for secure connections to resources within both public and private subnets.
 
 - **Private Subnets**: Positioned web servers (EC2 instances) within private subnets for enhanced security.
 
