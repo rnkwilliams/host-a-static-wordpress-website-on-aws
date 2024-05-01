@@ -1,6 +1,6 @@
 # Hosting WordPress Website on AWS
 
-![Alt text](Host_WordPress_Website_on_AWS.png)
+![Alt text](AWS 3-Tier VPC Network Architecture.png)
 
 ---
 
