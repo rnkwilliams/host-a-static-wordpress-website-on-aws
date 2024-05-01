@@ -1,4 +1,4 @@
-# Deploy a 3-Tier Network VPC WordPress Website on AWS
+# Deploy a 3-Tier Network VPC Wordpress Website on AWS
 
 ![Alt text](AWS_3Tier_VPC_Network_Architecture.png)
 
