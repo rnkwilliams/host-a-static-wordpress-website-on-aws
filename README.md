@@ -1,5 +1,4 @@
 # Deploy a 3-Tier Network VPC WordPress Website on AWS
----
 
 ## Project Overview
 
@@ -89,5 +88,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [AWS Documentation](https://aws.amazon.com/documentation/)
 - [WordPress Documentation](https://wordpress.org/support/)
 - [GitHub Repository](https://github.com/rnkwilliams/host-a-static-wordpress-website-on-aws)
-  
----
